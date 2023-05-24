@@ -1,0 +1,15 @@
+{
+  "name": "trabalho1-pps",
+  "version": "1.0.0",
+  "description": "- 202020901641 - Igor Semphoski de Assis\r - 202020902751 - Isadora Cristina Marques Firmo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "typescript": "^5.0.4"
+  }
+}
