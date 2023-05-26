@@ -1,15 +1,18 @@
 {
-  "name": "trabalho1-pps",
-  "version": "1.0.0",
-  "description": "- 202020901641 - Igor Semphoski de Assis\r - 202020902751 - Isadora Cristina Marques Firmo",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "dependencies": {
-    "typescript": "^5.0.4"
-  }
+    "name": "trabalho1-pps",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "transpile": "tsc",
+        "singleton": "tsc && clear && node dist/singleton-test.js",
+        "builder": "tsc && clear && node dist/builder-test.js",
+        "factory": "tsc && clear && node dist/factory-test.js"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "devDependencies": {
+        "typescript": "^5.0.4"
+    }
 }

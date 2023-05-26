@@ -30,12 +30,9 @@ Observações:
 5. enviar como resposta apenas o link do github, uma vez que dentro dele deverá ter o documento e o vídeo linkado na página principal também.
 6. APENAS UM ENVIO POR GRUPO.
 
-## Anotações
+## Rascunho
 
-- Entidades: recepção, alojamento e alimentação.
-- Atributos da Pousada: arquitetura, decoração, capacidade, estrutura (chalés, bangalôs, casinha ou prédio), hóspedes, período (data entrada e saída), preço diária, valor total estadia, atividades de lazer, numero de unidades, numero de leitos, classificação
-
-## Entidades (Classes)
+![Diagrama](./docs/Diagrama.png)
 
 - Hóspede:
 
@@ -54,7 +51,7 @@ Observações:
 - Pousada:
 
   1. estrutura (chalé, bangalô, casinha)
-  2. endereço (número da casa, logradouro, cidade, uf)
+  2. endereço (bairro, cep, número da casa, logradouro, cidade, uf)
   3. arquitetura
   4. decoração
   5. capacidade
@@ -72,6 +69,11 @@ Observações:
 - Alimentação
 
   1. periodoRefeição (café da manhã, almoço, café da tarde, janta)
-  2. opções
-  3. valorBuffetLivre
+  2. horaInicio
+  3. horaFim
+  3. cardapio
   4. data
+
+- Prato
+  1. nome
+  2. preco
