@@ -5,6 +5,10 @@
 - 202020901641 - Igor Semphoski de Assis
 - 202020902751 - Isadora Cristina Marques Firmo
 
+## Vídeo Evidência
+
+https://www.youtube.com/watch?v=uKNQhm5gpGM
+
 ## Enunciado
 
 Os domínios de um sistema são representados pelos objetos, nomes e atores que compõe um ecosistema de informação, por exemplo, quando se fala em um sistema aéreo, é comum que o domínio tenha informações como vôos (número, companhia, aeroporto de origem, destino), comissários de bordo e comandantes por exemplo. Dito isto, escolha um domínio abaixo e desenvolva aplicação de padrões de projeto criacionais para este domínio:
