@@ -2,8 +2,8 @@
 
 ## Integrantes:
 
-- 202020901641 - Igor Semphoski de Assis
-- 202020902751 - Isadora Cristina Marques Firmo
+- Igor Semphoski de Assis
+- Isadora Cristina Marques Firmo
 
 ## Vídeo Evidência
 
