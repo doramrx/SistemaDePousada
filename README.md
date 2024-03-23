@@ -32,7 +32,6 @@ Observações:
 3. podem escolher UMA pessoa para apresentar
 4. a atividade ficará aberta para entrega das 18:30 de 23/05 até 23:59 de 29/05, porém, os envios após o dia 23/05 tem um desconto de 1,0 ponto por dia de atraso, ou seja, se esforcem para entregar no dia de hoje (tem tempo para isso).
 5. enviar como resposta apenas o link do github, uma vez que dentro dele deverá ter o documento e o vídeo linkado na página principal também.
-6. APENAS UM ENVIO POR GRUPO.
 
 ## Rascunho
 
